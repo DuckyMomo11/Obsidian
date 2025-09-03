@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - Daily Notes/2025 September/2025-09-02.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-09-02"
+              "title": "New tab"
             }
           }
         ]
@@ -191,8 +187,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "002 - Daily Notes/2025 September/2025-09-01.md",
     "002 - Daily Notes/2025 September/2025-09-02.md",
+    "002 - Daily Notes/2025 September/2025-09-01.md",
     "002 - Daily Notes/2025 August/2025-08-31.md",
     "002 - Daily Notes/2025 August/2025-08-27.md",
     "002 - Daily Notes/2025 August/2025-08-28.md",
