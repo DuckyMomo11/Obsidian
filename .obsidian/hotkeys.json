@@ -1,0 +1,10 @@
+{
+  "zen:toggle": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ]
+}

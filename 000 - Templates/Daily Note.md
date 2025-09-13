@@ -1,3 +1,6 @@
+# To-Do List
+
+
 # Habit Tracker
 - Fixed Bed::
 - Morning Skincare::
@@ -14,13 +17,23 @@
 - Night Skincare::
 - Night Brush Teeth::
 
-# Day Satisfaction
+# Weight Loss
+Morning Weight: 
+Evening Weight:
+
+### Calorie Counter
+| Food   | Calories |
+| ------ | -------- |
+|        |          |
+|        |          |
+|        |          |
+|        |          |
+| Total: |          |
+  # Day Satisfaction
 - 1 ::
 - 2 ::
 - 3 ::
 - 4::
 - 5::
-
-# To-Do List
 
 # Journal

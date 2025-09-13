@@ -69,6 +69,18 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
+          },
+          {
+            "id": "ffae8068f825226d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "com.maxymillion.zen",
+              "state": {},
+              "pinned": true,
+              "icon": "eye-off",
+              "title": "Zen"
+            }
           }
         ],
         "currentTab": 2
@@ -127,9 +139,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "ad41f97ba361d818",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "d39051970d9f5156",
@@ -169,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,13 +205,38 @@
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
       "task-board:Open task board": false,
+      "handwritten-notes:Create empty handwritten note": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "002 - Daily Notes/2025 September/2025-09-02.md",
+    "001 - School/2025 Fall/MATH 2080/Chapter 1.pdf",
+    "001 - School/2025 Fall/PHIL 1290/00 - Syllabus.md",
+    "001 - School/2025 Fall/MATH 2740/Lecture 3 Slides.pdf",
+    "001 - School/2025 Fall/STAT 1150/Unit 1 Notes.pdf",
+    "001 - School/2025 Fall/MATH 2740/Lecture 1 Slides.pdf",
+    "001 - School/2025 Fall/MATH 2740/Lecture 2 Slides.pdf",
+    "001 - School/2025 Fall/STAT 1150/Unit 9 Notes.pdf",
+    "001 - School/2025 Fall/STAT 1150/Unit 8 Notes.pdf",
+    "001 - School/2025 Fall/STAT 1150/Unit 7 Notes.pdf",
+    "001 - School/2025 Fall/STAT 1150/Unit 6 Notes.pdf",
+    "001 - School/2025 Fall/STAT 1150/Unit 5 Notes.pdf",
+    "001 - School/2025 Fall/PHIL 1290/Chapter 2 Summary.md",
+    "001 - School/2025 Fall/PHIL 1290/Chapter 1 Summary.md",
+    "001 - School/2025 Fall/PHIL 1290/Pre-Lecture Notes/Chapter 1.md",
+    "001 - School/2025 Fall/PHIL 1290/Lecture Notes/2025-09-05.md",
+    "001 - School/2025 Fall/MATH 2740/00 - Syllabus.md",
+    "001 - School/2025 Fall/MATH 2740/Lecture Notes/2025-09-04.md",
+    "001 - School/2025 Fall/STAT 1150/Lecture Notes/2025-09-04.md",
+    "001 - School/2025 Fall/STAT 1150/Lecture Notes/2025-09-09.md",
+    "002 - Daily Notes/2025 September/2025-09-05.md",
+    "002 - Daily Notes/2025 September/2025-09-04.md",
+    "000 - Templates/Daily Note.md",
     "002 - Daily Notes/2025 September/2025-09-01.md",
+    "002 - Daily Notes/2025 September/2025-09-03.md",
+    "001 - School/2025 Fall/STAT 1150/00 - Syllabus.md",
+    "002 - Daily Notes/2025 September/2025-09-02.md",
     "002 - Daily Notes/2025 August/2025-08-31.md",
     "002 - Daily Notes/2025 August/2025-08-27.md",
     "002 - Daily Notes/2025 August/2025-08-28.md",
@@ -196,30 +244,7 @@
     "002 - Daily Notes/2025 August/2025-08-30.md",
     "000 - HomePage.md",
     "003 - Reading Journal/Reading Journal.md",
-    "002 - Daily Notes/2025 September",
-    "002 - Daily Notes/2025 August",
-    "000 - Templates/Daily Note.md",
-    "002 - Journal",
     "002 - Daily Notes/Untitled.md",
-    "003 - Reading Journal/Untitled.base",
-    "Untitled.md",
-    "003 - Reading Journal",
-    "001 - School/2026 Winter/Schedule.md",
-    "001 - School/2026 Winter/STAT 2150/00 - Syllabus.md",
-    "001 - School/2026 Winter/STAT 2150/Lecture Notes",
-    "001 - School/2026 Winter/STAT 2150/Assignments",
-    "001 - School/2026 Winter/MATH 2720/00 - Syllabus.md",
-    "001 - School/2026 Winter/ECON 1020/00 - Syllabus.md",
-    "001 - School/2026 Winter/MATH 2720/Lecture Notes",
-    "001 - School/2026 Winter/MATH 2720/Assignments",
-    "001 - School/2026 Winter/ECON 1020/Lecture Notes",
-    "000 - Templates/Class Notes.md",
-    "001 - School/2025 Fall/Schedule.md",
-    "001 - School/2025 Fall/MATH 2080/00 - Syllabus.md",
-    "001 - School/2025 Fall/MATH 2740/00 - Syllabus.md",
-    "001 - School/2025 Fall/PHIL 1290/00 - Syllabus.md",
-    "001 - School/2025 Fall/STAT 1150/00 - Syllabus.md",
-    "Welcome.md",
-    "001 - School/2025 Fall.md"
+    "Untitled.md"
   ]
 }
