@@ -1,0 +1,56 @@
+# Series
+- Keeper of the Lost Cities Series - Shannon Messenger
+- COSMERE Universe - Brandon Sanderson
+- The Empyrean Series - Rebecca Yarros
+- Powerless Series - Lauren Roberts
+- Throne of Glass Series - Sarah J. Maas
+- ACOTAR Series - Sarah J. Maas
+- House of Earth and Blood Series - Sarah J. Maas
+- Lightlark Series - Alex Aster
+- The Four Winds - Alexandria Warwick
+- The Witcher Series - Andrzej Sapkowsky
+- Empires of Dust Series - Anna Smith Spark
+- Defy the Night Series - Brigid Kemmer
+- The War of Lost Hearts Series - Carissa Broadbent
+- A Crowns of Nyaxia - Carissa Broadbent
+- Zodiac Academy Series - Caroline Peckham
+- Shadowhunters Series - Cassandra Clare
+- The Night Circus - Erin Morgenstern
+- Ready Player One - Ernest Cline
+- Jade City  Series - Ronda Lee
+- Caraval Series - Stephanie Garbie
+- Once Upon a Broken Heart Series - Stephanie Garbie
+- A Game of Thrones Series - George R. R. Martin
+- The Lord of the Rings Series - J. R. R. Tolkien
+- Empire of the Vampire Series - Jay Kristoff
+- Three Dark Crowns Series - Kendare Blake
+- Graceling Series - Kristin cashore
+- The Prison Healer Series - Lynette Noni
+- Six of Crowns Series - Leigh Bardugo
+- The Book that Broke the World Series - Mark Lawrence
+- Kings of the Wyld Series - Nicholas Eames
+- The Poppy War Series - R. F. Kuang
+- The Bone Season - Samantha Shannon
+- The Hunger Games Series - Suzanne Collins
+- The Legendborn Cycle - Tracy Deonn
+- A Darker Shade of Magic - V.E. Schwab
+
+# Standalones
+- XOXO - Axie Oh
+- The Dagger and the Flame - Catherine Doyle
+- The Will of the Many - James Islington
+-  The Fault in Our Stars - John Green
+- Darker by Four - June CL Tan
+- A Crane Among Wolves - June Hur
+- The Night Country - Melissa Albert
+- A Deadly Education - Naomi Novik
+- American Gods - Neil Gaiman
+- Draw Down the Moon - P. C. Cast
+- Divine Rivals - Rebecca Ross
+- The Priory of the Orange Tree - Samantha Shannon
+- When the Moon Hatched - Sarah A. Parker
+- The Spellshop - Sarah Beth Durst
+# Light Novel
+- Solo Leveling
+- Omniscient Reader's Viewpoint
+- Lord of Mysteries

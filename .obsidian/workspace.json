@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "001 - School/2025 Fall/MATH 2080/Chapter 1.pdf"
+                "file": "001 - School/2025 Fall/MATH 2080/Chapter 4.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Chapter 1"
+              "title": "Chapter 4"
             }
           }
         ]
@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "c33a8df74afac778",
+            "id": "c51dd4ff3967854f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -213,25 +213,31 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "001 - School/2026 Winter/PHIL 1290/A Practical Study of Argument, Enhanced Edition_250903_135243.pdf",
-    "001 - School/2025 Fall/MATH 2080/2080 Syllabus-25F.docx",
-    "001 - School/2026 Winter/PHIL 1290/Lecture Notes/2025-09-05.md",
-    "001 - School/2026 Winter/PHIL 1290/00 - Syllabus.md",
-    "001 - School/2026 Winter/PHIL 1290/Chapter 1 Summary.md",
-    "001 - School/2026 Winter/PHIL 1290/Chapter 2 Summary.md",
-    "001 - School/2025 Fall/MATH 2080/Understanding Analysis.pdf",
+    "001 - School/2025 Fall/MATH 2080/Chapter 4.pdf",
+    "001 - School/2025 Fall/MATH 2080/Chapter 3.pdf",
     "001 - School/2025 Fall/MATH 2080/Chapter 1.pdf",
-    "001 - School/2025 Fall/MATH 2080/00 - Syllabus.md",
-    "001 - School/2025 Fall/MATH 2740/Lecture 3 Slides.pdf",
-    "001 - School/2025 Fall/STAT 1150/Unit 1 Notes.pdf",
-    "001 - School/2025 Fall/MATH 2740/Lecture 1 Slides.pdf",
-    "001 - School/2025 Fall/MATH 2740/Lecture 2 Slides.pdf",
-    "001 - School/2025 Fall/STAT 1150/Unit 9 Notes.pdf",
-    "001 - School/2025 Fall/STAT 1150/Unit 8 Notes.pdf",
-    "001 - School/2025 Fall/STAT 1150/Unit 7 Notes.pdf",
-    "001 - School/2025 Fall/PHIL 1290/Pre-Lecture Notes/Chapter 1.md",
-    "001 - School/2025 Fall/MATH 2740/00 - Syllabus.md",
+    "001 - School/2025 Fall/MATH 2080/Chapter 2.pdf",
+    "001 - School/2025 Fall/STAT 1150/Unit 4 Notes.pdf",
+    "001 - School/2025 Fall/STAT 1150/Unit 5 Notes.pdf",
+    "001 - School/2025 Fall/STAT 1150/Unit 6 Notes.pdf",
+    "001 - School/2025 Fall/MATH 2740/L19-graph-measures-1.pdf",
+    "001 - School/2025 Fall/MATH 2740/L18-graphs-4.pdf",
+    "001 - School/2025 Fall/MATH 2080/Chapter 6.pdf",
+    "003 - Reading Journal/Series Tracker.md",
+    "003 - Reading Journal/TBR.md",
+    "003 - Reading Journal/Reviews.md",
+    "004 - Personal/Resume/martin-aguila-resume.pdf",
     "001 - School/2025 Fall/MATH 2740/Lecture Notes/2025-09-04.md",
+    "003 - Reading Journal/Untitled.md",
+    "003 - Reading Journal/Reading Journal.md",
+    "001 - School/2026 Winter/PHIL 1290/Chapter 2 Summary.md",
+    "001 - School/2026 Winter/PHIL 1290/Chapter 1 Summary.md",
+    "001 - School/2025 Fall/PHIL 1290/00 - Syllabus.md",
+    "001 - School/2025 Fall/PHIL 1290/Chapter 2 Summary.md",
+    "001 - School/2025 Fall/PHIL 1290/Chapter 1 Summary.md",
+    "001 - School/2025 Fall/PHIL 1290/Pre-Lecture Notes/Chapter 1.md",
+    "001 - School/2025 Fall/PHIL 1290/Lecture Notes/2025-09-05.md",
+    "001 - School/2025 Fall/MATH 2740/00 - Syllabus.md",
     "001 - School/2025 Fall/STAT 1150/Lecture Notes/2025-09-04.md",
     "001 - School/2025 Fall/STAT 1150/Lecture Notes/2025-09-09.md",
     "002 - Daily Notes/2025 September/2025-09-05.md",
@@ -242,12 +248,6 @@
     "001 - School/2025 Fall/STAT 1150/00 - Syllabus.md",
     "002 - Daily Notes/2025 September/2025-09-02.md",
     "002 - Daily Notes/2025 August/2025-08-31.md",
-    "002 - Daily Notes/2025 August/2025-08-27.md",
-    "002 - Daily Notes/2025 August/2025-08-28.md",
-    "002 - Daily Notes/2025 August/2025-08-29.md",
-    "002 - Daily Notes/2025 August/2025-08-30.md",
-    "000 - HomePage.md",
-    "003 - Reading Journal/Reading Journal.md",
-    "002 - Daily Notes/Untitled.md"
+    "002 - Daily Notes/2025 August/2025-08-27.md"
   ]
 }
