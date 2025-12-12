@@ -1,5 +1,7 @@
 {
-  "cssTheme": "Catppuccin",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "baseFontSize": 22,
+  "textFontFamily": "Sylfaen"
 }

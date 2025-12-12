@@ -13,5 +13,8 @@
   "theme-picker",
   "task-board",
   "zen",
-  "handwritten-notes"
+  "handwritten-notes",
+  "obsidian-epub-plugin",
+  "quick-latex",
+  "obsidian-tikzjax"
 ]

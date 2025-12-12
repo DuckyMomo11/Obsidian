@@ -1,11 +1,11 @@
 {
-  "googleClientId": "",
+  "googleClientId": "https://calendar.google.com/calendar/embed?src=aguilamartin11%40gmail.com&ctz=America%2FWinnipeg",
   "googleClientSecret": "",
   "googleRefreshToken": "",
   "useCustomClient": true,
   "googleOAuthServer": "https://obsidian-google-calendar.vercel.app",
   "refreshInterval": 10,
-  "useNotification": false,
+  "useNotification": true,
   "showNotice": true,
   "autoCreateEventNotes": true,
   "autoCreateEventNotesMarker": "obsidian",

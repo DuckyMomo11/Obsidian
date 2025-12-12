@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "001 - School/2025 Fall/MATH 2080/Chapter 4.pdf"
+                "file": "001 - School/2025 Fall/STAT 1150/Class Slides/Unit 8 Notes.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Chapter 4"
+              "title": "Unit 8 Notes"
             }
           }
         ]
@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "c51dd4ff3967854f",
+            "id": "04cecf840cebbdda",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -153,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "d39051970d9f5156",
@@ -180,16 +180,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - Journal/2025-08-27.md",
+                "file": "001 - School/2025 Fall/MATH 2080/Review Questions.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-27"
+              "title": "Outline of Review Questions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,41 +214,41 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "001 - School/2025 Fall/MATH 2080/Chapter 4.pdf",
-    "001 - School/2025 Fall/MATH 2080/Chapter 3.pdf",
-    "001 - School/2025 Fall/MATH 2080/Chapter 1.pdf",
-    "001 - School/2025 Fall/MATH 2080/Chapter 2.pdf",
-    "001 - School/2025 Fall/STAT 1150/Unit 4 Notes.pdf",
-    "001 - School/2025 Fall/STAT 1150/Unit 5 Notes.pdf",
-    "001 - School/2025 Fall/STAT 1150/Unit 6 Notes.pdf",
-    "001 - School/2025 Fall/MATH 2740/L19-graph-measures-1.pdf",
-    "001 - School/2025 Fall/MATH 2740/L18-graphs-4.pdf",
-    "001 - School/2025 Fall/MATH 2080/Chapter 6.pdf",
-    "003 - Reading Journal/Series Tracker.md",
-    "003 - Reading Journal/TBR.md",
-    "003 - Reading Journal/Reviews.md",
-    "004 - Personal/Resume/martin-aguila-resume.pdf",
-    "001 - School/2025 Fall/MATH 2740/Lecture Notes/2025-09-04.md",
-    "003 - Reading Journal/Untitled.md",
-    "003 - Reading Journal/Reading Journal.md",
-    "001 - School/2026 Winter/PHIL 1290/Chapter 2 Summary.md",
-    "001 - School/2026 Winter/PHIL 1290/Chapter 1 Summary.md",
-    "001 - School/2025 Fall/PHIL 1290/00 - Syllabus.md",
-    "001 - School/2025 Fall/PHIL 1290/Chapter 2 Summary.md",
-    "001 - School/2025 Fall/PHIL 1290/Chapter 1 Summary.md",
-    "001 - School/2025 Fall/PHIL 1290/Pre-Lecture Notes/Chapter 1.md",
-    "001 - School/2025 Fall/PHIL 1290/Lecture Notes/2025-09-05.md",
+    "001 - School/2025 Fall/STAT 1150/Formula Sheet.pdf",
+    "001 - School/2025 Fall/STAT 1150/Class Slides/Unit 8 Notes.pdf",
+    "001 - School/2025 Fall/STAT 1150/Class Slides/Unit 7 Notes.pdf",
+    "001 - School/2025 Fall/STAT 1150/Class Slides/Unit 6 Notes.pdf",
+    "001 - School/2025 Fall/MATH 2740/Class Slides/L03-math-preliminaries-1.pdf",
+    "001 - School/2025 Fall/MATH 2740/Class Slides/L12-matrix-methods-SVM.pdf",
+    "001 - School/2025 Fall/MATH 2740/Class Slides/L02-what-is-data-science-why-math.pdf",
+    "001 - School/2025 Fall/MATH 2740/Class Slides/L13-DTMC-regular-chains.pdf",
+    "001 - School/2025 Fall/MATH 2740/Class Slides/L11-matrix-methods-PCA-2-2.pdf",
+    "001 - School/2025 Fall/MATH 2740/Class Slides/L10-matrix-methods-PCA-1.pdf",
+    "001 - School/2025 Fall/MATH 2740/Class Slides/L09-matrix-methods-SVD-2.pdf",
+    "Untitled.md",
     "001 - School/2025 Fall/MATH 2740/00 - Syllabus.md",
+    "002 - Daily Notes/2025-12/2025-12-07.md",
+    "001 - School/2025 Fall/MATH 2080/Chapter Notes/Chapter 1 - The Real Numbers.md",
+    "003 - Reading Journal/Untitled.md",
+    "003 - Reading Journal/TBR.md",
+    "003 - Reading Journal/Series Tracker.md",
+    "003 - Reading Journal/Reviews.md",
+    "001 - School/2026 Winter/PHIL 1290/Lecture Notes/2025-09-05.md",
+    "001 - School/2026 Winter/PHIL 1290/00 - Syllabus.md",
+    "001 - School/2026 Winter/PHIL 1290/Chapter 1 Summary.md",
+    "001 - School/2026 Winter/PHIL 1290/Chapter 2 Summary.md",
+    "001 - School/2025 Fall/MATH 2080/00 - Syllabus.md",
+    "001 - School/2025 Fall/PHIL 1290/Pre-Lecture Notes/Chapter 1.md",
+    "001 - School/2025 Fall/MATH 2740/Lecture Notes/2025-09-04.md",
     "001 - School/2025 Fall/STAT 1150/Lecture Notes/2025-09-04.md",
     "001 - School/2025 Fall/STAT 1150/Lecture Notes/2025-09-09.md",
-    "002 - Daily Notes/2025 September/2025-09-05.md",
-    "002 - Daily Notes/2025 September/2025-09-04.md",
+    "002 - Daily Notes/2025-09/2025-09-05.md",
+    "002 - Daily Notes/2025-09/2025-09-04.md",
     "000 - Templates/Daily Note.md",
-    "002 - Daily Notes/2025 September/2025-09-01.md",
-    "002 - Daily Notes/2025 September/2025-09-03.md",
+    "002 - Daily Notes/2025-09/2025-09-01.md",
+    "002 - Daily Notes/2025-09/2025-09-03.md",
     "001 - School/2025 Fall/STAT 1150/00 - Syllabus.md",
-    "002 - Daily Notes/2025 September/2025-09-02.md",
-    "002 - Daily Notes/2025 August/2025-08-31.md",
-    "002 - Daily Notes/2025 August/2025-08-27.md"
+    "002 - Daily Notes/2025-09/2025-09-02.md",
+    "002 - Daily Notes/2025-08/2025-08-31.md"
   ]
 }
