@@ -36,6 +36,5 @@
   },
   "001 - School": "LiSchool",
   "000 - Templates": "LiLayoutTemplate",
-  "999 - Projects": "LiAlignVerticalDistributeCenter",
-  "002 - Daily Notes": "LiCalendar"
+  "999 - Projects": "LiAlignVerticalDistributeCenter"
 }
