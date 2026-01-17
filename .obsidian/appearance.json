@@ -3,5 +3,7 @@
   "theme": "obsidian",
   "baseFontSizeAction": true,
   "baseFontSize": 22,
-  "textFontFamily": "Sylfaen"
+  "textFontFamily": "Sylfaen,Source Code Pro",
+  "interfaceFontFamily": "Source Code Pro",
+  "accentColor": ""
 }

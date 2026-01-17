@@ -11,12 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "001 - School/2025 Fall/STAT 1150/Class Slides/Unit 8 Notes.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Unit 8 Notes"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -73,7 +71,7 @@
             }
           },
           {
-            "id": "04cecf840cebbdda",
+            "id": "b37155d6194902bd",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -138,8 +136,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -153,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "d39051970d9f5156",
@@ -180,13 +178,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 - School/2025 Fall/MATH 2080/Review Questions.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Review Questions"
+              "title": "Outline"
             }
           }
         ],
@@ -194,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,17 +210,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "001 - School/2025 Fall/STAT 1150/Formula Sheet.pdf",
+    "001 - School/2026 Winter/PHIL 1290/Chapter 1 Summary.md",
+    "005 - Gym/Workout Plan.md",
+    "005 - Gym",
+    "001 - School/2026 Winter/STAT 2150/STAT 2400",
+    "001 - School/2026 Winter/STAT 2150",
+    "001 - School/2026 Winter/ECON 1010",
+    "001 - School/2026 Winter/PHIL 1290/Chapter 2 Summary.md",
+    "001 - School/2026 Winter/PHIL 1290/A Practical Study of Argument, Enhanced Edition_250903_135243.pdf",
     "001 - School/2025 Fall/STAT 1150/Class Slides/Unit 8 Notes.pdf",
+    "001 - School/2025 Fall/STAT 1150/Formula Sheet.pdf",
     "001 - School/2025 Fall/STAT 1150/Class Slides/Unit 7 Notes.pdf",
     "001 - School/2025 Fall/STAT 1150/Class Slides/Unit 6 Notes.pdf",
     "001 - School/2025 Fall/MATH 2740/Class Slides/L03-math-preliminaries-1.pdf",
-    "001 - School/2025 Fall/MATH 2740/Class Slides/L12-matrix-methods-SVM.pdf",
-    "001 - School/2025 Fall/MATH 2740/Class Slides/L02-what-is-data-science-why-math.pdf",
-    "001 - School/2025 Fall/MATH 2740/Class Slides/L13-DTMC-regular-chains.pdf",
-    "001 - School/2025 Fall/MATH 2740/Class Slides/L11-matrix-methods-PCA-2-2.pdf",
-    "001 - School/2025 Fall/MATH 2740/Class Slides/L10-matrix-methods-PCA-1.pdf",
-    "001 - School/2025 Fall/MATH 2740/Class Slides/L09-matrix-methods-SVD-2.pdf",
     "Untitled.md",
     "001 - School/2025 Fall/MATH 2740/00 - Syllabus.md",
     "002 - Daily Notes/2025-12/2025-12-07.md",
@@ -235,8 +233,6 @@
     "003 - Reading Journal/Reviews.md",
     "001 - School/2026 Winter/PHIL 1290/Lecture Notes/2025-09-05.md",
     "001 - School/2026 Winter/PHIL 1290/00 - Syllabus.md",
-    "001 - School/2026 Winter/PHIL 1290/Chapter 1 Summary.md",
-    "001 - School/2026 Winter/PHIL 1290/Chapter 2 Summary.md",
     "001 - School/2025 Fall/MATH 2080/00 - Syllabus.md",
     "001 - School/2025 Fall/PHIL 1290/Pre-Lecture Notes/Chapter 1.md",
     "001 - School/2025 Fall/MATH 2740/Lecture Notes/2025-09-04.md",
