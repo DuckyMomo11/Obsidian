@@ -11,10 +11,32 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "001 - School/2026 Winter/STAT 2150/Notes/2026-01-15.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-01-15"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a8a7fcad6a6c008a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5202003effc013d5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "001 - School/2026 Winter/STAT 2150/Slides/Unit 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Unit 1"
             }
           }
         ]
@@ -71,7 +93,7 @@
             }
           },
           {
-            "id": "b37155d6194902bd",
+            "id": "291ec54599bdf0dd",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -87,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b7725b0488717880",
@@ -146,12 +169,12 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "d39051970d9f5156",
@@ -178,12 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "001 - School/2025 Fall/MATH 2080/Review Questions.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Review Questions"
             }
           }
         ],
@@ -191,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,19 +235,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "001 - School/2026 Winter/STAT 2150/Slides/Unit 1.pdf",
+    "001 - School/2026 Winter/STAT 2150/Notes/2026-01-15.md",
+    "001 - School/2026 Winter/STAT 2150/STAT 2150 Syllabus Winter 2026.pdf",
     "001 - School/2026 Winter/PHIL 1290/Chapter 1 Summary.md",
+    "001 - School/2026 Winter/ECON 1010/ECON_1010-A05_Course Outline_Winter 2026_RA.pdf",
+    "001 - School/2026 Winter/Schedule.md",
+    "001 - School/2026 Winter/STAT 2150/Tentative Course Schedule.pdf",
+    "001 - School/2026 Winter/STAT 2150/Lecture Notes/2026-01-15.md",
+    "001 - School/2026 Winter/STAT 2150/Notes",
+    "001 - School/2026 Winter/ECON 1010/Notes",
+    "001 - School/2026 Winter/STAT 2150/Slides",
+    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 1 Appendix.pdf",
+    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 1.pdf",
+    "001 - School/2026 Winter/ECON 1010/Slides",
     "005 - Gym/Workout Plan.md",
-    "005 - Gym",
-    "001 - School/2026 Winter/STAT 2150/STAT 2400",
-    "001 - School/2026 Winter/STAT 2150",
-    "001 - School/2026 Winter/ECON 1010",
-    "001 - School/2026 Winter/PHIL 1290/Chapter 2 Summary.md",
-    "001 - School/2026 Winter/PHIL 1290/A Practical Study of Argument, Enhanced Edition_250903_135243.pdf",
-    "001 - School/2025 Fall/STAT 1150/Class Slides/Unit 8 Notes.pdf",
-    "001 - School/2025 Fall/STAT 1150/Formula Sheet.pdf",
-    "001 - School/2025 Fall/STAT 1150/Class Slides/Unit 7 Notes.pdf",
-    "001 - School/2025 Fall/STAT 1150/Class Slides/Unit 6 Notes.pdf",
-    "001 - School/2025 Fall/MATH 2740/Class Slides/L03-math-preliminaries-1.pdf",
     "Untitled.md",
     "001 - School/2025 Fall/MATH 2740/00 - Syllabus.md",
     "002 - Daily Notes/2025-12/2025-12-07.md",
@@ -233,6 +260,7 @@
     "003 - Reading Journal/Reviews.md",
     "001 - School/2026 Winter/PHIL 1290/Lecture Notes/2025-09-05.md",
     "001 - School/2026 Winter/PHIL 1290/00 - Syllabus.md",
+    "001 - School/2026 Winter/PHIL 1290/Chapter 2 Summary.md",
     "001 - School/2025 Fall/MATH 2080/00 - Syllabus.md",
     "001 - School/2025 Fall/PHIL 1290/Pre-Lecture Notes/Chapter 1.md",
     "001 - School/2025 Fall/MATH 2740/Lecture Notes/2025-09-04.md",
@@ -241,10 +269,6 @@
     "002 - Daily Notes/2025-09/2025-09-05.md",
     "002 - Daily Notes/2025-09/2025-09-04.md",
     "000 - Templates/Daily Note.md",
-    "002 - Daily Notes/2025-09/2025-09-01.md",
-    "002 - Daily Notes/2025-09/2025-09-03.md",
-    "001 - School/2025 Fall/STAT 1150/00 - Syllabus.md",
-    "002 - Daily Notes/2025-09/2025-09-02.md",
-    "002 - Daily Notes/2025-08/2025-08-31.md"
+    "002 - Daily Notes/2025-09/2025-09-01.md"
   ]
 }

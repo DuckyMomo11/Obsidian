@@ -5,5 +5,7 @@
   "baseFontSize": 22,
   "textFontFamily": "Sylfaen,Source Code Pro",
   "interfaceFontFamily": "Source Code Pro",
-  "accentColor": ""
+  "accentColor": "",
+  "nativeMenus": false,
+  "monospaceFontFamily": "Source Code Pro"
 }
