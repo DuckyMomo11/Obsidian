@@ -13,30 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - School/2026 Winter/STAT 2150/Notes/2026-01-15.md",
+                "file": "006 - Recipies/Creamy Garlic Cheesy Chicken and Potatoes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-15"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a8a7fcad6a6c008a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5202003effc013d5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "001 - School/2026 Winter/STAT 2150/Slides/Unit 1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Unit 1"
+              "title": "Creamy Garlic Cheesy Chicken and Potatoes"
             }
           }
         ]
@@ -93,7 +75,7 @@
             }
           },
           {
-            "id": "291ec54599bdf0dd",
+            "id": "1a53d18b2271cdfe",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -109,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b7725b0488717880",
@@ -169,12 +150,12 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "d39051970d9f5156",
@@ -201,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 - School/2025 Fall/MATH 2080/Review Questions.pdf",
+                "file": "006 - Recipies/Creamy Garlic Cheesy Chicken and Potatoes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Review Questions"
+              "title": "Outline of Creamy Garlic Cheesy Chicken and Potatoes"
             }
           }
         ],
@@ -215,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,22 +215,28 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "001 - School/2026 Winter/STAT 2150/Slides/Unit 1.pdf",
-    "001 - School/2026 Winter/STAT 2150/Notes/2026-01-15.md",
-    "001 - School/2026 Winter/STAT 2150/STAT 2150 Syllabus Winter 2026.pdf",
-    "001 - School/2026 Winter/PHIL 1290/Chapter 1 Summary.md",
-    "001 - School/2026 Winter/ECON 1010/ECON_1010-A05_Course Outline_Winter 2026_RA.pdf",
-    "001 - School/2026 Winter/Schedule.md",
-    "001 - School/2026 Winter/STAT 2150/Tentative Course Schedule.pdf",
-    "001 - School/2026 Winter/STAT 2150/Lecture Notes/2026-01-15.md",
-    "001 - School/2026 Winter/STAT 2150/Notes",
-    "001 - School/2026 Winter/ECON 1010/Notes",
-    "001 - School/2026 Winter/STAT 2150/Slides",
-    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 1 Appendix.pdf",
-    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 1.pdf",
-    "001 - School/2026 Winter/ECON 1010/Slides",
-    "005 - Gym/Workout Plan.md",
+    "006 - Recipies/Sweet and Sour Chicken.md",
+    "006 - Recipies/Creamy Garlic Cheesy Chicken and Potatoes.md",
+    "006 - Recipies/Honey Garlic Chicken.md",
+    "006 - Recipies/Korean Beef Bowl.md",
+    "Untitled 1.md",
     "Untitled.md",
+    "005 - Gym/Workout Plan.md",
+    "005 - Health/Workout Plan.md",
+    "006 - Recipies",
+    "001 - School/2026 Winter/STAT 2150/Tentative Course Schedule.pdf",
+    "001 - School/2026 Winter/STAT 2150/Slides/Unit 1.pdf",
+    "001 - School/2026 Winter/STAT 2150/Slides",
+    "001 - School/2026 Winter/STAT 2150/STAT 2150 Syllabus Winter 2026.pdf",
+    "001 - School/2026 Winter/STAT 2150/Notes/2026-01-15.md",
+    "001 - School/2026 Winter/STAT 2150/Notes",
+    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 1.pdf",
+    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 1 Appendix.pdf",
+    "001 - School/2026 Winter/ECON 1010/Slides",
+    "001 - School/2026 Winter/ECON 1010/ECON_1010-A05_Course Outline_Winter 2026_RA.pdf",
+    "005 - Health/Food Tracker/2026-01-17.md",
+    "001 - School/2026 Winter/PHIL 1290/Chapter 1 Summary.md",
+    "001 - School/2026 Winter/PHIL 1290/Chapter 2 Summary.md",
     "001 - School/2025 Fall/MATH 2740/00 - Syllabus.md",
     "002 - Daily Notes/2025-12/2025-12-07.md",
     "001 - School/2025 Fall/MATH 2080/Chapter Notes/Chapter 1 - The Real Numbers.md",
@@ -260,15 +246,10 @@
     "003 - Reading Journal/Reviews.md",
     "001 - School/2026 Winter/PHIL 1290/Lecture Notes/2025-09-05.md",
     "001 - School/2026 Winter/PHIL 1290/00 - Syllabus.md",
-    "001 - School/2026 Winter/PHIL 1290/Chapter 2 Summary.md",
     "001 - School/2025 Fall/MATH 2080/00 - Syllabus.md",
     "001 - School/2025 Fall/PHIL 1290/Pre-Lecture Notes/Chapter 1.md",
     "001 - School/2025 Fall/MATH 2740/Lecture Notes/2025-09-04.md",
     "001 - School/2025 Fall/STAT 1150/Lecture Notes/2025-09-04.md",
-    "001 - School/2025 Fall/STAT 1150/Lecture Notes/2025-09-09.md",
-    "002 - Daily Notes/2025-09/2025-09-05.md",
-    "002 - Daily Notes/2025-09/2025-09-04.md",
-    "000 - Templates/Daily Note.md",
-    "002 - Daily Notes/2025-09/2025-09-01.md"
+    "001 - School/2025 Fall/STAT 1150/Lecture Notes/2025-09-09.md"
   ]
 }
