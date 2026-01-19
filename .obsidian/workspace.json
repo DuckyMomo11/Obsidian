@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "006 - Recipies/Creamy Garlic Cheesy Chicken and Potatoes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Creamy Garlic Cheesy Chicken and Potatoes"
+              "title": "New tab"
             }
           }
         ]
@@ -75,7 +71,7 @@
             }
           },
           {
-            "id": "1a53d18b2271cdfe",
+            "id": "dc419db9bfb50324",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -182,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006 - Recipies/Creamy Garlic Cheesy Chicken and Potatoes.md",
+                "file": "001 - School/2026 Winter/STAT 2150/Notes/2026-01-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Creamy Garlic Cheesy Chicken and Potatoes"
+              "title": "Outline of 2026-01-15"
             }
           }
         ],
@@ -196,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,8 +212,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "006 - Recipies/Sweet and Sour Chicken.md",
+    "001 - School/2026 Winter/STAT 2150/Notes/2026-01-15.md",
+    "001 - School/2026 Winter/STAT 2150/Slides/Unit 1.pdf",
     "006 - Recipies/Creamy Garlic Cheesy Chicken and Potatoes.md",
+    "006 - Recipies/Sweet and Sour Chicken.md",
     "006 - Recipies/Honey Garlic Chicken.md",
     "006 - Recipies/Korean Beef Bowl.md",
     "Untitled 1.md",
@@ -225,10 +224,8 @@
     "005 - Health/Workout Plan.md",
     "006 - Recipies",
     "001 - School/2026 Winter/STAT 2150/Tentative Course Schedule.pdf",
-    "001 - School/2026 Winter/STAT 2150/Slides/Unit 1.pdf",
     "001 - School/2026 Winter/STAT 2150/Slides",
     "001 - School/2026 Winter/STAT 2150/STAT 2150 Syllabus Winter 2026.pdf",
-    "001 - School/2026 Winter/STAT 2150/Notes/2026-01-15.md",
     "001 - School/2026 Winter/STAT 2150/Notes",
     "001 - School/2026 Winter/ECON 1010/Slides/Chapter 1.pdf",
     "001 - School/2026 Winter/ECON 1010/Slides/Chapter 1 Appendix.pdf",
@@ -249,7 +246,6 @@
     "001 - School/2025 Fall/MATH 2080/00 - Syllabus.md",
     "001 - School/2025 Fall/PHIL 1290/Pre-Lecture Notes/Chapter 1.md",
     "001 - School/2025 Fall/MATH 2740/Lecture Notes/2025-09-04.md",
-    "001 - School/2025 Fall/STAT 1150/Lecture Notes/2025-09-04.md",
-    "001 - School/2025 Fall/STAT 1150/Lecture Notes/2025-09-09.md"
+    "001 - School/2025 Fall/STAT 1150/Lecture Notes/2025-09-04.md"
   ]
 }
