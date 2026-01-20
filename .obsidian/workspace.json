@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "001 - School/2026 Winter/STAT 2150/Notes/2026-01-15.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-01-15"
             }
           }
         ]
@@ -71,7 +75,7 @@
             }
           },
           {
-            "id": "dc419db9bfb50324",
+            "id": "cf99e0884a5fbf69",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -212,8 +216,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "001 - School/2026 Winter/STAT 2150/Notes/2026-01-15.md",
     "001 - School/2026 Winter/STAT 2150/Slides/Unit 1.pdf",
+    "001 - School/2026 Winter/STAT 2150/Notes/2026-01-15.md",
     "006 - Recipies/Creamy Garlic Cheesy Chicken and Potatoes.md",
     "006 - Recipies/Sweet and Sour Chicken.md",
     "006 - Recipies/Honey Garlic Chicken.md",
