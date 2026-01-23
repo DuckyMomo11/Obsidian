@@ -71,14 +71,14 @@
             }
           },
           {
-            "id": "e5637e6a1bfe839f",
+            "id": "992efb3e4357f272",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "com.maxymillion.zen",
               "state": {},
               "pinned": true,
-              "icon": "eye",
+              "icon": "eye-off",
               "title": "Zen"
             }
           }
@@ -178,12 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "001 - School/2026 Winter/STAT 2150/Notes/2026-01-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2026-01-20"
             }
           }
         ],
@@ -191,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,13 +212,22 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "001 - School/2026 Winter/ECON 1010/Notes/Untitled.md",
+    "001 - School/2026 Winter/STAT 2400/Unit Notes/notes2400 5.pdf",
+    "001 - School/2026 Winter/STAT 2400/Unit Notes/notes2400.pdf",
+    "001 - School/2026 Winter/STAT 2400/Unit Notes/unit2_2400.pdf",
+    "001 - School/2026 Winter/STAT 2400/Unit Notes/unit1_2400.pdf",
+    "001 - School/2026 Winter/STAT 2400/Unit Notes/PDF 2.pdf",
+    "001 - School/2026 Winter/STAT 2400/Practice Problems/unit1_practiceproblems.pdf",
+    "001 - School/2026 Winter/STAT 2400/Practice Problems/unit2_practiceproblems.pdf",
+    "001 - School/2026 Winter/STAT 2400/Textbook Problems/textbook_probs1_chap1.pdf",
+    "001 - School/2026 Winter/STAT 2400/Textbook Problems/textbook_probs1_chap2.pdf",
+    "001 - School/2026 Winter/STAT 2400/Textbook Problems/textbook_probs2.pdf",
+    "001 - School/2026 Winter/STAT 2400/stat2400_w26_outline.pdf",
+    "001 - School/2026 Winter/STAT 2150/Notes/2026-01-22.md",
     "001 - School/2026 Winter/STAT 2150/Notes/2026-01-20.md",
-    "001 - School/2026 Winter/ECON 1010/Notes",
-    "001 - School/2026 Winter/ECON 1010/Untitled.md",
+    "001 - School/2026 Winter/ECON 1010/Notes/Untitled.md",
     "001 - School/2026 Winter/STAT 2150/Notes/2026-01-15.md",
-    "001 - School/2026 Winter/STAT 2150/STAT 2150 Syllabus Winter 2026.pdf",
-    "001 - School/2026 Winter/STAT 2150/Tentative Course Schedule.pdf",
+    "001 - School/2026 Winter/ECON 1010/Untitled.md",
     "Untitled.md",
     "006 - Recipies/Creamy Garlic Cheesy Chicken and Potatoes.md",
     "006 - Recipies/Sweet and Sour Chicken.md",
@@ -225,13 +236,6 @@
     "Untitled 1.md",
     "005 - Gym/Workout Plan.md",
     "005 - Health/Workout Plan.md",
-    "006 - Recipies",
-    "001 - School/2026 Winter/STAT 2150/Slides/Unit 1.pdf",
-    "001 - School/2026 Winter/STAT 2150/Slides",
-    "001 - School/2026 Winter/STAT 2150/Notes",
-    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 1.pdf",
-    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 1 Appendix.pdf",
-    "001 - School/2026 Winter/ECON 1010/Slides",
     "005 - Health/Food Tracker/2026-01-17.md",
     "001 - School/2026 Winter/PHIL 1290/Chapter 1 Summary.md",
     "001 - School/2026 Winter/PHIL 1290/Chapter 2 Summary.md",
@@ -243,8 +247,6 @@
     "003 - Reading Journal/Series Tracker.md",
     "003 - Reading Journal/Reviews.md",
     "001 - School/2026 Winter/PHIL 1290/Lecture Notes/2025-09-05.md",
-    "001 - School/2026 Winter/PHIL 1290/00 - Syllabus.md",
-    "001 - School/2025 Fall/MATH 2080/00 - Syllabus.md",
-    "001 - School/2025 Fall/PHIL 1290/Pre-Lecture Notes/Chapter 1.md"
+    "001 - School/2026 Winter/PHIL 1290/00 - Syllabus.md"
   ]
 }
