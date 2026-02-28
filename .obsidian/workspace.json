@@ -11,12 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "release-notes",
               "state": {
-                "file": "001 - School/2026 Winter/ECON 1010/Slides/Chapter 1.pdf"
+                "currentVersion": "1.12.4"
               },
-              "icon": "lucide-file-text",
-              "title": "Chapter 1"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
         ]
@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "549fafc0c090a23c",
+            "id": "b0864adc95729677",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -214,22 +214,24 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 2.pdf",
+    "004 - Personal/Baby's B-Day Gift.md",
     "001 - School/2026 Winter/ECON 1010/Slides/Chapter 3.pdf",
-    "001 - School/2026 Winter/STAT 2400/Unit Notes/PDF 6.pdf",
-    "001 - School/2026 Winter/STAT 2150/Notes/2026-01-20.md",
-    "001 - School/2026 Winter/STAT 2150/Notes/2026-01-15.md",
-    "001 - School/2026 Winter/STAT 2150/Practice Questions/Past Term Test 1 - Questions.pdf",
-    "001 - School/2026 Winter/STAT 2400/Unit Notes/PDF 2.pdf",
-    "001 - School/2026 Winter/STAT 2400/Practice Test/sample_test1A_sol.pdf",
-    "001 - School/2026 Winter/STAT 2400/Practice Test/sample_test1A.pdf",
-    "001 - School/2026 Winter/STAT 2400/Practice Test/sample_test1B_sol.pdf",
-    "001 - School/2026 Winter/STAT 2400/Practice Test/sample_test1B.pdf",
-    "001 - School/2026 Winter/STAT 2400/Practice Test/sample_test1C_sol.pdf",
-    "001 - School/2026 Winter/STAT 2400/Practice Test/sample_test1C.pdf",
+    "001 - School/2026 Winter/STAT 2150/Slides/Unit 2.pdf",
+    "001 - School/2026 Winter/STAT 2150/Slides/Unit 1.pdf",
+    "001 - School/2026 Winter/STAT 2150/Slides/Unit 3.pdf",
+    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 4.pdf",
+    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 4 additional file.pdf",
+    "001 - School/2026 Winter/ECON 1010/Slides/Measuring DWL.jpg",
+    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 5.pdf",
+    "001 - School/2026 Winter/STAT 2400/Unit Notes/Module 2 Prof Notes.pdf",
+    "001 - School/2026 Winter/STAT 2400/Practice Test/Test 1/sample_test1A.pdf",
+    "001 - School/2026 Winter/STAT 2400/Unit Notes/Module 1 Prof Notes.pdf",
+    "001 - School/2026 Winter/STAT 2150/Notes/2026-02-24.md",
     "001 - School/2026 Winter/STAT 2150/Notes/2026-01-27.md",
     "001 - School/2026 Winter/STAT 2150/Notes/2026-01-22.md",
+    "001 - School/2026 Winter/STAT 2150/Notes/2026-01-20.md",
     "001 - School/2026 Winter/ECON 1010/Notes/Untitled.md",
+    "001 - School/2026 Winter/STAT 2150/Notes/2026-01-15.md",
     "001 - School/2026 Winter/ECON 1010/Untitled.md",
     "Untitled.md",
     "006 - Recipies/Creamy Garlic Cheesy Chicken and Potatoes.md",
@@ -247,8 +249,6 @@
     "001 - School/2025 Fall/MATH 2080/Chapter Notes/Chapter 1 - The Real Numbers.md",
     "003 - Reading Journal/Untitled.md",
     "003 - Reading Journal/TBR.md",
-    "003 - Reading Journal/Series Tracker.md",
-    "003 - Reading Journal/Reviews.md",
-    "001 - School/2026 Winter/PHIL 1290/Lecture Notes/2025-09-05.md"
+    "003 - Reading Journal/Series Tracker.md"
   ]
 }
