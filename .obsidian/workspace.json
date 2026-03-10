@@ -11,12 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -73,7 +71,7 @@
             }
           },
           {
-            "id": "b0864adc95729677",
+            "id": "e34f442ea3ad8c97",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -89,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b7725b0488717880",
@@ -214,18 +213,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "004 - Personal/Baby's B-Day Gift.md",
-    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 3.pdf",
-    "001 - School/2026 Winter/STAT 2150/Slides/Unit 2.pdf",
-    "001 - School/2026 Winter/STAT 2150/Slides/Unit 1.pdf",
-    "001 - School/2026 Winter/STAT 2150/Slides/Unit 3.pdf",
+    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 6.pdf",
     "001 - School/2026 Winter/ECON 1010/Slides/Chapter 4.pdf",
-    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 4 additional file.pdf",
-    "001 - School/2026 Winter/ECON 1010/Slides/Measuring DWL.jpg",
     "001 - School/2026 Winter/ECON 1010/Slides/Chapter 5.pdf",
-    "001 - School/2026 Winter/STAT 2400/Unit Notes/Module 2 Prof Notes.pdf",
-    "001 - School/2026 Winter/STAT 2400/Practice Test/Test 1/sample_test1A.pdf",
-    "001 - School/2026 Winter/STAT 2400/Unit Notes/Module 1 Prof Notes.pdf",
+    "001 - School/2026 Winter/ECON 1010/Slides/Measuring DWL.jpg",
+    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 4 additional file.pdf",
+    "001 - School/2026 Winter/STAT 2400/Unit Notes/Module 4 Prof Notes.pdf",
+    "001 - School/2026 Winter/STAT 2400/Unit Notes/Module 3 Prof Notes.pdf",
+    "001 - School/2026 Winter/STAT 2400/stat2400_w26_outline.pdf",
+    "001 - School/2026 Winter/STAT 2400/Unit Notes/unit3_2400.pdf",
+    "001 - School/2026 Winter/STAT 2400/Unit Notes/unit4_2400.pdf",
+    "001 - School/2026 Winter/STAT 2150/Slides/Unit 3.pdf",
+    "004 - Personal/Baby's B-Day Gift.md",
     "001 - School/2026 Winter/STAT 2150/Notes/2026-02-24.md",
     "001 - School/2026 Winter/STAT 2150/Notes/2026-01-27.md",
     "001 - School/2026 Winter/STAT 2150/Notes/2026-01-22.md",
