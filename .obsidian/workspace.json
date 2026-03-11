@@ -8,16 +8,79 @@
         "type": "tabs",
         "children": [
           {
+            "id": "90ab371648b32c3f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "001 - School/2026 Winter/STAT 2400/Unit Notes/Module 3 Prof Notes.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Module 3 Prof Notes"
+            }
+          },
+          {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "001 - School/2026 Winter/STAT 2400/Unit Notes/Module 4 Prof Notes.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Module 4 Prof Notes"
+            }
+          },
+          {
+            "id": "70430fe3ab101dd4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "001 - School/2026 Winter/STAT 2400/Practice Problems/unit3_practiceproblems.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "unit3_practiceproblems"
+            }
+          },
+          {
+            "id": "75205e183af7d5eb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "001 - School/2026 Winter/STAT 2400/Practice Problems/unit4_practiceproblems.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "unit4_practiceproblems"
+            }
+          },
+          {
+            "id": "b91f1754a6846f80",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "001 - School/2026 Winter/STAT 2400/Textbook Problems/textbook_probs3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "textbook_probs3"
+            }
+          },
+          {
+            "id": "0db6148b5c183414",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "001 - School/2026 Winter/STAT 2400/Textbook Problems/textbook_probs4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "textbook_probs4"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,7 +134,7 @@
             }
           },
           {
-            "id": "e34f442ea3ad8c97",
+            "id": "fb855714bbd22a53",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -82,12 +145,11 @@
               "title": "Zen"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 331,
     "collapsed": true
   },
   "right": {
@@ -179,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 - School/2026 Winter/STAT 2150/Notes/2026-01-20.md",
+                "file": "001 - School/2026 Winter/STAT 2400/Practice Problems/unit3_practiceproblems.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-01-20"
+              "title": "Outline of unit3_practiceproblems"
             }
           }
         ],
@@ -211,26 +273,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "70430fe3ab101dd4",
   "lastOpenFiles": [
-    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 6.pdf",
-    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 4.pdf",
-    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 5.pdf",
-    "001 - School/2026 Winter/ECON 1010/Slides/Measuring DWL.jpg",
-    "001 - School/2026 Winter/ECON 1010/Slides/Chapter 4 additional file.pdf",
     "001 - School/2026 Winter/STAT 2400/Unit Notes/Module 4 Prof Notes.pdf",
     "001 - School/2026 Winter/STAT 2400/Unit Notes/Module 3 Prof Notes.pdf",
-    "001 - School/2026 Winter/STAT 2400/stat2400_w26_outline.pdf",
-    "001 - School/2026 Winter/STAT 2400/Unit Notes/unit3_2400.pdf",
+    "001 - School/2026 Winter/STAT 2400/Practice Problems/unit3_practiceproblems.pdf",
+    "001 - School/2026 Winter/STAT 2400/Practice Problems/unit4_practiceproblems.pdf",
+    "001 - School/2026 Winter/STAT 2400/Textbook Problems/textbook_probs3.pdf",
+    "001 - School/2026 Winter/STAT 2400/Textbook Problems/textbook_probs4.pdf",
     "001 - School/2026 Winter/STAT 2400/Unit Notes/unit4_2400.pdf",
-    "001 - School/2026 Winter/STAT 2150/Slides/Unit 3.pdf",
+    "001 - School/2026 Winter/STAT 2400/stat2400_w26_outline.pdf",
+    "001 - School/2026 Winter/STAT 2400/Practice Test/Test 2",
     "004 - Personal/Baby's B-Day Gift.md",
-    "001 - School/2026 Winter/STAT 2150/Notes/2026-02-24.md",
+    "000 - HomePage.md",
+    "001 - School/2026 Winter/STAT 2400/Textbook Problems/textbook_probs2.pdf",
+    "001 - School/2026 Winter/STAT 2400/Textbook Problems/textbook_probs1_chap2.pdf",
     "001 - School/2026 Winter/STAT 2150/Notes/2026-01-27.md",
-    "001 - School/2026 Winter/STAT 2150/Notes/2026-01-22.md",
+    "001 - School/2026 Winter/ECON 1010/Slides/Measuring DWL.jpg",
     "001 - School/2026 Winter/STAT 2150/Notes/2026-01-20.md",
-    "001 - School/2026 Winter/ECON 1010/Notes/Untitled.md",
     "001 - School/2026 Winter/STAT 2150/Notes/2026-01-15.md",
+    "001 - School/2026 Winter/STAT 2150/Notes/2026-01-22.md",
+    "001 - School/2026 Winter/ECON 1010/Notes/Untitled.md",
     "001 - School/2026 Winter/ECON 1010/Untitled.md",
     "Untitled.md",
     "006 - Recipies/Creamy Garlic Cheesy Chicken and Potatoes.md",

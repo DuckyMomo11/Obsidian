@@ -7,5 +7,6 @@
   "interfaceFontFamily": "Source Code Pro",
   "accentColor": "",
   "nativeMenus": false,
-  "monospaceFontFamily": "Source Code Pro"
+  "monospaceFontFamily": "Source Code Pro",
+  "showRibbon": false
 }
