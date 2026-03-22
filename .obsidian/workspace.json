@@ -1,0 +1,339 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90ab371648b32c3f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "001 - School/2026 Winter/STAT 2400/Unit Notes/Module 3 Prof Notes.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Module 3 Prof Notes"
+            }
+          },
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "001 - School/2026 Winter/STAT 2400/Unit Notes/Module 4 Prof Notes.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Module 4 Prof Notes"
+            }
+          },
+          {
+            "id": "70430fe3ab101dd4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "001 - School/2026 Winter/STAT 2400/Practice Problems/unit3_practiceproblems.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "unit3_practiceproblems"
+            }
+          },
+          {
+            "id": "75205e183af7d5eb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "001 - School/2026 Winter/STAT 2400/Practice Problems/unit4_practiceproblems.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "unit4_practiceproblems"
+            }
+          },
+          {
+            "id": "b91f1754a6846f80",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "001 - School/2026 Winter/STAT 2400/Textbook Problems/textbook_probs3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "textbook_probs3"
+            }
+          },
+          {
+            "id": "0db6148b5c183414",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "001 - School/2026 Winter/STAT 2400/Textbook Problems/textbook_probs4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "textbook_probs4"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8e733bceaeb608f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c211cd7fb60e1330",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23ad9eada65250b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4dd8f945c8c5f3d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "c57f250d7d06ca5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+<<<<<<< HEAD
+            "id": "664759a1110eef5f",
+=======
+            "id": "fb855714bbd22a53",
+>>>>>>> a91935dfdf9724dec973533afb153454123d3df7
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "com.maxymillion.zen",
+              "state": {},
+              "pinned": true,
+              "icon": "eye-off",
+              "title": "Zen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+<<<<<<< HEAD
+    "width": 300
+=======
+    "width": 331,
+    "collapsed": true
+>>>>>>> a91935dfdf9724dec973533afb153454123d3df7
+  },
+  "right": {
+    "id": "b7725b0488717880",
+    "type": "split",
+    "children": [
+      {
+        "id": "73bc9feba0a66db7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d78f0f3c1315006",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 - HomePage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 000 - HomePage"
+            }
+          },
+          {
+            "id": "687af7ababcbcc36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000 - HomePage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 000 - HomePage"
+            }
+          },
+          {
+            "id": "880876c4d1e2ea17",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "ad41f97ba361d818",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "d39051970d9f5156",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c99262ebf406470",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5252d8b8c71088db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "001 - School/2026 Winter/STAT 2400/Practice Problems/unit3_practiceproblems.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of unit3_practiceproblems"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "task-board:Open task board": false,
+      "handwritten-notes:Create empty handwritten note": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "70430fe3ab101dd4",
+  "lastOpenFiles": [
+<<<<<<< HEAD
+    "001 - School/2026 Winter/STAT 2400/Unit Notes/Module 5 Prof Notes.pdf",
+    "001 - School/2026 Winter/STAT 2400/Unit Notes/Module 4 Prof Notes.pdf",
+    "001 - School/2026 Winter/STAT 2400/Unit Notes/Module 2 Prof Notes.pdf",
+    "001 - School/2026 Winter/STAT 2400/Practice Test/Test 2/sample_test2A_sol.pdf",
+    "001 - School/2026 Winter/STAT 2400/Practice Test/Test 2/sample_test2A.pdf",
+    "001 - School/2026 Winter/STAT 2400/Practice Test/Test 2/sample_test2B_sol.pdf",
+    "001 - School/2026 Winter/STAT 2400/Practice Test/Test 2/sample_test2B.pdf",
+    "001 - School/2026 Winter/STAT 2400/Practice Test/Test 2/sample_test2C_sol.pdf",
+    "001 - School/2026 Winter/STAT 2400/Practice Test/Test 2/sample_test2C.pdf",
+    "001 - School/2026 Winter/STAT 2400/Practice Test/Test 2",
+    "001 - School/2026 Winter/STAT 2400/Unit Notes/AB0944AA-94A6-4449-B0A5-1E4FF399BB9D6.pdf",
+    "000 - Templates/Daily Note.md",
+    "001 - School/2026 Winter/ECON 1010/Slides/Measuring DWL.jpg",
+=======
+    "001 - School/2026 Winter/STAT 2400/Unit Notes/Module 4 Prof Notes.pdf",
+    "001 - School/2026 Winter/STAT 2400/Unit Notes/Module 3 Prof Notes.pdf",
+    "001 - School/2026 Winter/STAT 2400/Practice Problems/unit3_practiceproblems.pdf",
+    "001 - School/2026 Winter/STAT 2400/Practice Problems/unit4_practiceproblems.pdf",
+    "001 - School/2026 Winter/STAT 2400/Textbook Problems/textbook_probs3.pdf",
+    "001 - School/2026 Winter/STAT 2400/Textbook Problems/textbook_probs4.pdf",
+    "001 - School/2026 Winter/STAT 2400/Unit Notes/unit4_2400.pdf",
+    "001 - School/2026 Winter/STAT 2400/stat2400_w26_outline.pdf",
+    "001 - School/2026 Winter/STAT 2400/Practice Test/Test 2",
+>>>>>>> a91935dfdf9724dec973533afb153454123d3df7
+    "004 - Personal/Baby's B-Day Gift.md",
+    "000 - HomePage.md",
+    "001 - School/2026 Winter/STAT 2400/Textbook Problems/textbook_probs2.pdf",
+    "001 - School/2026 Winter/STAT 2400/Textbook Problems/textbook_probs1_chap2.pdf",
+    "001 - School/2026 Winter/STAT 2150/Notes/2026-01-27.md",
+    "001 - School/2026 Winter/ECON 1010/Slides/Measuring DWL.jpg",
+    "001 - School/2026 Winter/STAT 2150/Notes/2026-01-20.md",
+    "001 - School/2026 Winter/STAT 2150/Notes/2026-01-15.md",
+    "001 - School/2026 Winter/STAT 2150/Notes/2026-01-22.md",
+    "001 - School/2026 Winter/ECON 1010/Notes/Untitled.md",
+    "001 - School/2026 Winter/ECON 1010/Untitled.md",
+    "Untitled.md",
+    "006 - Recipies/Creamy Garlic Cheesy Chicken and Potatoes.md",
+    "006 - Recipies/Sweet and Sour Chicken.md",
+    "006 - Recipies/Honey Garlic Chicken.md",
+    "006 - Recipies/Korean Beef Bowl.md",
+    "Untitled 1.md",
+    "005 - Gym/Workout Plan.md",
+    "005 - Health/Workout Plan.md",
+    "005 - Health/Food Tracker/2026-01-17.md",
+    "001 - School/2026 Winter/PHIL 1290/Chapter 1 Summary.md",
+    "001 - School/2026 Winter/PHIL 1290/Chapter 2 Summary.md",
+    "001 - School/2025 Fall/MATH 2740/00 - Syllabus.md",
+    "002 - Daily Notes/2025-12/2025-12-07.md",
+    "001 - School/2025 Fall/MATH 2080/Chapter Notes/Chapter 1 - The Real Numbers.md",
+    "003 - Reading Journal/Untitled.md",
+    "003 - Reading Journal/TBR.md"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Pink Topaz",
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "baseFontSize": 22,
+  "textFontFamily": "Sylfaen,Source Code Pro",
+  "interfaceFontFamily": "Source Code Pro",
+  "accentColor": "",
+  "nativeMenus": false,
+  "monospaceFontFamily": "Source Code Pro",
+  "showRibbon": false
+}
